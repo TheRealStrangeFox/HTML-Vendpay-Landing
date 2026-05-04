@@ -2761,12 +2761,12 @@ a.animated-button.style2:hover:after {
     height: 38px;
     margin-left: 5px;
   }
-  
+
   #sidebarCollapse .menu-icon,
   #sidebarCollapse .close-icon {
     font-size: 14px;
   }
-  
+
   .navbar-1 .language-switcher {
     margin-left: 10px;
     margin-right: 10px;
@@ -3054,12 +3054,12 @@ a.animated-button.style2:hover:after {
     top: -2px;
     position: relative;
   }
-  
+
   #sidebarCollapse .menu-icon,
   #sidebarCollapse .close-icon {
     font-size: 13px;
   }
-  
+
   .navbar-1 .language-switcher {
     margin-left: 5px;
     margin-right: 5px;
@@ -3443,4 +3443,14 @@ body.scheme4 #section-footer {
   background-image: url(../images/bg-footer4.png);
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+}
+
+.logo {
+  height: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    height: 40px;
+  }
 }
