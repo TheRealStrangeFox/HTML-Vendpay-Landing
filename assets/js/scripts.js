@@ -81,37 +81,6 @@
 			});
 		}
 
-		// 7. [Color Switcher] - Theme Color
-		$('#color-switcher').on('click', '.switcher-content .list-color span', function () {
-			$('#color-switcher .switcher-content .list-color span').removeClass('active');
-			$(this).addClass('active');
-
-			// Change Color By Click Class
-			var schemeClass = ('scheme1 scheme2 scheme3 scheme4');
-			var $this = $(this);
-
-			if ($this.hasClass('scheme1')) {
-				$('body').removeClass(schemeClass);
-			}
-			else if ($this.hasClass('scheme2')) {
-				$('body').removeClass(schemeClass);
-				$('body').addClass('scheme2');
-			}
-			else if ($this.hasClass('scheme3')) {
-				$('body').removeClass(schemeClass);
-				$('body').addClass('scheme3');
-			}
-			else if ($this.hasClass('scheme4')) {
-				$('body').removeClass(schemeClass);
-				$('body').addClass('scheme4');
-			}
-
-		});
-		// Toggle Panel (Open/Closed)
-		$('#color-switcher').on('click', '.switcher-panel', function () {
-			$('#color-switcher').toggleClass('closed');
-		});
-
 		// 8. [Language Switcher] - Language Selection
 		// Translation object
 
@@ -124,7 +93,7 @@
 					$(this).text(translations[lang][key]);
 				}
 			});
-			
+
 			// Translate placeholders
 			$('[data-translate-placeholder]').each(function () {
 				var key = $(this).data('translate-placeholder');
