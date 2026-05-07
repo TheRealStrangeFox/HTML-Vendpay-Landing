@@ -1361,7 +1361,7 @@ a.animated-button.style2:hover:after {
   margin-bottom: 5px;
 }
 #section-features1 .left h2 {
-  font-size: 36px;
+  font-size: 30px;
   color: #343434;
   line-height: 43px;
   margin-bottom: 20px;
@@ -1398,6 +1398,7 @@ a.animated-button.style2:hover:after {
 }
 #section-features1 .item {
   /*max-width: 370px;*/
+  height: 100%;
   padding: 25px 29px;
   background: #ffffff;
   border-radius: 20px;
@@ -1405,12 +1406,31 @@ a.animated-button.style2:hover:after {
   box-shadow: 10px 22px 55px -40px #bfbfbf;
 }
 
+#section-features1 .icon {
+  width: 81px;
+  height: 81px;
+  border-radius: 20px;
+  background: linear-gradient(
+    to right,
+    color-mix(in srgb, var(--color-one), transparent 20%),
+    color-mix(in srgb, var(--color-two), transparent 20%),
+    color-mix(in srgb, var(--color-three), transparent 20%)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+#section-features1 .icon img {
+  width: 54px;
+  height: 54px;
+}
+
 #section-features1 .item:hover {
   cursor: auto;
 }
-#section-features1 .item img {
-  margin-bottom: 30px;
-}
+
 #section-features1 .item h3 {
   font-size: 22px;
   color: #343067;
@@ -2633,6 +2653,4 @@ a.animated-button.style2:hover:after {
   .logo {
     height: 30px;
   }
-
-  
 }

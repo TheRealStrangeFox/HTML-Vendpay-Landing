@@ -16,6 +16,22 @@ var translations = {
     hero_summary: "We are adding cashless payments to self-service machines. quickly, easily and efficiently",
     start_now: "Get Started Now",
 
+    //features
+    features_section_label: "Features",
+    features_section_title: "Smart tools for your business",
+    features_headline: "Electronic Accounting",
+    features_summary: "Manage and monitor your business financial accounting online.",
+    features_headline2: "Audit",
+    features_summary2: "Get detailed analysis and audit capabilities for your business.",
+    features_headline3: "Device Monitoring",
+    features_summary3: "Monitor device activity and status in real time, including power on/off tracking and system performance.",
+    features_headline4: "Sales & Inventory Control",
+    features_summary4: "Track sales, transactions, stock levels, and balance management for vending and other business systems.",
+    features_headline5: "Remote Management & Analytics",
+    features_summary5: "Detect errors, manage devices remotely, and access detailed analytics for smarter business decisions.",
+    features_headline6: "TBC Bank POS terminal",
+    features_summary6: "Increase sales and improve service quality with a contactless POS terminal that fully adapts to your business needs.",
+
   },
   ge: {
     home: "მთავარი",
@@ -32,5 +48,21 @@ var translations = {
     hero_headline: "ერთი სისტემა ყველა აპარატისთის",
     hero_summary: "ვამატებთ საბარათე და ციფრულ გადახდებს თვითმომსახურების აპარატებზე, სწრაფად, მარტივად და ეფექტურად",
     start_now: "დაიწყე ახლა",
+
+    //features
+    features_section_label: "ფუნქციები",
+    features_section_title: "ჭკვიანი ინსტრუმენტები თქვენი ბიზნესისთვის",
+    features_headline: "ელექტრონული აღრიცხვა",
+    features_summary: "მართეთ და აკონტროლეთ თქვენი ბიზნესის ფინანსური აღრიცხვა ონლაინ.",
+    features_headline2: "აუდიტი",
+    features_summary2: "მიიღეთ დეტალური ანალიზი და აუდიტის შესაძლებლობები თქვენი ბიზნესისთვის.",
+    features_headline3: "მოწყობილობის მონიტორინგი",
+    features_summary3: "აკონტროლეთ მოწყობილობის მუშაობა რეალურ დროში, მათ შორის ჩართვა /გამორთვის სტატუსი და სისტემის შესრულება.",
+    features_headline4: "გაყიდვებისა და მარაგის კონტროლი",
+    features_summary4: "მართეთ გაყიდვები, ტრანზაქციები, მარაგი და ბალანსი ვენდინგისა და სხვა ბიზნეს სისტემებისთვის.",
+    features_headline5: "დისტანციური მართვა და ანალიტიკა",
+    features_summary5: "აღმოაჩინეთ შეცდომები, მართეთ მოწყობილობები დისტანციურად და მიიღეთ დეტალური ანალიტიკა უკეთესი გადაწყვეტილებებისთვის.",
+    features_headline6: "TBC ბანკის POS ტერმინალი",
+    features_summary6: "გაზარდეთ გაყიდვები და გააუმჯობესეთ მომსახურების ხარისხი უკონტაქტო ტექნოლოგიით აღჭურვილ გადახდის POS ტერმინალით.",
   }
 };
