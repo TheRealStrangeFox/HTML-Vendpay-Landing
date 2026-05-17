@@ -32,6 +32,21 @@ var translations = {
     features_headline6: "TBC Bank POS terminal",
     features_summary6: "Increase sales and improve service quality with a contactless POS terminal that fully adapts to your business needs.",
 
+    //priorities 
+    feature_block1_label: "01 – Two Payment Systems",
+    feature_block1_title: "Cashless payments for every vending machine",
+    feature_block1_text: "We offer two payment solutions tailored for self-service machines. A full cashless payment system for vending machines, and QR code payments — perfect for businesses where installing a traditional POS terminal is not an option.",
+    feature_block1_btn: "GET STARTED NOW",
+    feature_block2_label: "02 – Go Cashless",
+    feature_block2_title: "Give your customers speed and comfort",
+    feature_block2_text: "Implement a cashless payment system and give your customers exactly what they want — fast, effortless transactions. No coins, no waiting, no friction. Just scan and go.",
+    feature_block2_btn: "GET STARTED NOW",
+    feature_block3_label: "03 – Unlock More Potential",
+    feature_block3_title: "Make your machines work harder for your business",
+    feature_block3_text: "Give your machines more capabilities and turn them into a more profitable asset. Statistics show that card and digital payments significantly increase the number of transactions per machine.",
+    feature_block3_btn: "GET STARTED NOW",
+
+
     //showcase
     app_screen_label: "APP SCREENS",
     app_screen_title: "See it in action",
@@ -105,6 +120,20 @@ var translations = {
     features_summary5: "აღმოაჩინეთ შეცდომები, მართეთ მოწყობილობები დისტანციურად და მიიღეთ დეტალური ანალიტიკა უკეთესი გადაწყვეტილებებისთვის.",
     features_headline6: "TBC ბანკის POS ტერმინალი",
     features_summary6: "გაზარდეთ გაყიდვები და გააუმჯობესეთ მომსახურების ხარისხი უკონტაქტო ტექნოლოგიით აღჭურვილ გადახდის POS ტერმინალით.",
+
+    //priorities 
+    feature_block1_label: "01 – ორი გადახდის სისტემა",
+    feature_block1_title: "უნაღდო ანგარიშსწორება ყველა ვენდინგ აპარატზე",
+    feature_block1_text: "ჩვენ გთავაზობთ ორ გადახდის გადაწყვეტას თვითმომსახურების აპარატებისთვის. სრული უნაღდო ანგარიშსწორების სისტემა სავაჭრო ვენდინგ აპარატებზე და QR-კოდით გადახდა — იდეალური იმ ბიზნესებისთვის, რომლებიც ვერ ახერხებენ ტერმინალის დაყენებას.",
+    feature_block1_btn: "დაიწყე ახლა",
+    feature_block2_label: "02 – გადადი უნაღდო გადახდებზე",
+    feature_block2_title: "მიეცით კლიენტებს სისწრაფე და კომფორტი",
+    feature_block2_text: "დანერგეთ უნაღდო ანგარიშსწორების სისტემა და მიეცით თქვენს კლიენტებს ის, რაც მათ ყველაზე მეტად უნდათ — სწრაფი და მარტივი გადახდა. მონეტების გარეშე, ლოდინის გარეშე, სირთულეების გარეშე. უბრალოდ დაასკანირე და წადი.",
+    feature_block2_btn: "დაიწყე ახლა",
+    feature_block3_label: "03 – გახადე ბიზნესი მომგებიანი",
+    feature_block3_title: "მიეცით აპარატებს მეტი შესაძლებლობა",
+    feature_block3_text: "გახადეთ თქვენი აპარატები უფრო ფუნქციური და გადააქციეთ ისინი უფრო მომგებიან აქტივად. სტატისტიკა გვიჩვენებს, რომ ბარათითა და ციფრული გადახდებით ტრანზაქციების რაოდენობა აპარატებზე მნიშვნელოვნად იზრდება.",
+    feature_block3_btn: "დაიწყე ახლა",
 
     //showcase
     app_screen_label: "აპლიკაცია",

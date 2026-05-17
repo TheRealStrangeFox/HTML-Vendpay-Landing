@@ -1398,6 +1398,7 @@ a.animated-button.style2:hover:after {
 }
 #section-features1 .swiper-container {
   height: 340px;
+  padding: 5px;
 }
 #section-features1 .item {
   /*max-width: 370px;*/
@@ -1406,7 +1407,7 @@ a.animated-button.style2:hover:after {
   background: #ffffff;
   border-radius: 20px;
 
-  box-shadow: 10px 22px 55px -40px #bfbfbf;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 #section-features1 .icon {
@@ -1456,18 +1457,18 @@ a.animated-button.style2:hover:after {
 .section-features2 .left {
   text-align: center;
 }
-#section-features2 .left .circleicon1,
-.section-features2 .left .circleicon1 {
-  position: absolute;
-  z-index: 9999;
-  top: 40px;
-  right: -95px;
-}
+
 #section-features2 .left .img-container,
 .section-features2 .left .img-container {
   position: relative;
   display: inline-block;
 }
+
+#section-features2 .img-container img,
+.section-features2 .img-container img {
+  border-radius: 30px;
+}
+
 #section-features2 .right h6,
 .section-features2 .right h6 {
   font-size: 14px;
