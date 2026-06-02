@@ -78,7 +78,7 @@ var translations = {
 
     //contacts section
     subscribe_label: "CONTACT",
-    subscribe_title: "Too busy right now? Leave your contact and we'll reach out to you.",
+    subscribe_title: "Have a question or need help? Get in touch with us.",
     subscribe_placeholder: "Enter your phone number or email",
     subscribe_button: "SEND",
 
@@ -167,7 +167,7 @@ var translations = {
 
     //contacts section
     subscribe_label: "კონტაქტი",
-    subscribe_title: "დაკავებული ხარ? დაგვიტოვე საკონტაქტო ინფორმაცია და ჩვენ დაგიკავშირდებით.",
+    subscribe_title: "გაქვთ კითხვა ან საჭიროებთ დახმარებას? დაგვიკავშირდით.",
     subscribe_placeholder: "შეიყვანე ტელეფონის ნომერი ან ელფოსტა",
     subscribe_button: "გაგზავნა",
 

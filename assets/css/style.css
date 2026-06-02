@@ -1829,6 +1829,30 @@ a.animated-button.style2:hover:after {
   transition: all 0.2s ease-in-out;
 }
 
+.contact-info-card {
+  text-align: center;
+  padding: 40px 20px;
+}
+.contact-info-card i {
+  margin-bottom: 15px;
+  display: block;
+}
+.contact-info-card h6 {
+  font-size: 14px;
+  color: #555556;
+  margin-bottom: 10px;
+  letter-spacing: 1px;
+}
+.contact-info-card a {
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
+  text-decoration: none;
+}
+.contact-info-card a:hover {
+  text-decoration: underline;
+}
+
 /*=============================
  *   4.9 SECTION DOWNLOAD 1  *
  *============================*/
