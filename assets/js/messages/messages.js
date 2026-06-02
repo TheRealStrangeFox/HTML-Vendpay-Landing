@@ -13,7 +13,7 @@ var translations = {
     call_us: "Call us for imiditate support",
     send_email: "Send us email for any kind of inquiry",
     hero_headline: "One system for all devices",
-    hero_summary: "We are adding cashless payments to self-service machines. quickly, easily and efficiently",
+    hero_summary: "Cashless payments to self-service machines. quickly, easily and efficiently",
     start_now: "Get Started Now",
 
     //features
@@ -101,9 +101,9 @@ var translations = {
     have_question: "გაქვთ რაიმე შეკითხვა?",
     call_us: "დაგვიკავშირდით დაუყოვნებელი მხარდაჭერისთვის",
     send_email: "მოგვწერეთ ელფოსტაზე ნებისმიერი შეკითხვისთვის",
-    hero_headline: "ერთი სისტემა ყველა აპარატისთის",
-    hero_summary: "ვამატებთ საბარათე და ციფრულ გადახდებს თვითმომსახურების აპარატებზე, სწრაფად, მარტივად და ეფექტურად",
-    start_now: "დაიწყე ახლა",
+    hero_headline: "ერთი სისტემა ყველა აპარატისთვის",
+    hero_summary: "საბარათე და ციფრულ გადახდებს თვითმომსახურების აპარატებზე, სწრაფად, მარტივად და ეფექტურად",
+    start_now: "დაიწყე ახლავე",
 
     //features
     features_section_label: "ფუნქციები",
@@ -125,15 +125,15 @@ var translations = {
     feature_block1_label: "01 – ორი გადახდის სისტემა",
     feature_block1_title: "უნაღდო ანგარიშსწორება ყველა ვენდინგ აპარატზე",
     feature_block1_text: "ჩვენ გთავაზობთ ორ გადახდის გადაწყვეტას თვითმომსახურების აპარატებისთვის. სრული უნაღდო ანგარიშსწორების სისტემა სავაჭრო ვენდინგ აპარატებზე და QR-კოდით გადახდა — იდეალური იმ ბიზნესებისთვის, რომლებიც ვერ ახერხებენ ტერმინალის დაყენებას.",
-    feature_block1_btn: "დაიწყე ახლა",
+    feature_block1_btn: "დაიწყე ახლავე",
     feature_block2_label: "02 – გადადი უნაღდო გადახდებზე",
     feature_block2_title: "მიეცით კლიენტებს სისწრაფე და კომფორტი",
     feature_block2_text: "დანერგეთ უნაღდო ანგარიშსწორების სისტემა და მიეცით თქვენს კლიენტებს ის, რაც მათ ყველაზე მეტად უნდათ — სწრაფი და მარტივი გადახდა. მონეტების გარეშე, ლოდინის გარეშე, სირთულეების გარეშე. უბრალოდ დაასკანირე და წადი.",
-    feature_block2_btn: "დაიწყე ახლა",
+    feature_block2_btn: "დაიწყე ახლავე",
     feature_block3_label: "03 – გახადე ბიზნესი მომგებიანი",
     feature_block3_title: "მიეცით აპარატებს მეტი შესაძლებლობა",
     feature_block3_text: "გახადეთ თქვენი აპარატები უფრო ფუნქციური და გადააქციეთ ისინი უფრო მომგებიან აქტივად. სტატისტიკა გვიჩვენებს, რომ ბარათითა და ციფრული გადახდებით ტრანზაქციების რაოდენობა აპარატებზე მნიშვნელოვნად იზრდება.",
-    feature_block3_btn: "დაიწყე ახლა",
+    feature_block3_btn: "დაიწყე ახლავე",
 
     //showcase
     app_screen_label: "აპლიკაცია",
