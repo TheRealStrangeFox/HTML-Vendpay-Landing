@@ -127,7 +127,7 @@
 		}
 
 		// Get saved language from localStorage or default to 'en'
-		var currentLang = localStorage.getItem('selectedLanguage') || 'en';
+		var currentLang = localStorage.getItem('selectedLanguage') || 'ge';
 		$languageSwitcher.find('.current-lang').text(currentLang.toUpperCase());
 
 		// Update active state
