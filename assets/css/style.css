@@ -1508,8 +1508,6 @@ a.animated-button.style2:hover:after {
   width: auto !important;
 }
 #section-appscreen1 .owl-item.center > div {
-  -webkit-box-shadow: 0 0 50px -22px #64a0e8;
-  box-shadow: 0 0 50px -22px #64a0e8;
   transition: all 0.15s ease-in-out;
 }
 
