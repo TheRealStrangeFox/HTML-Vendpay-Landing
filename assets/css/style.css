@@ -1019,17 +1019,17 @@ a.animated-button.style2:hover:after {
 .navbar-1 .language-switcher .lang-option:hover,
 .navbar-1 .language-switcher .lang-option:focus {
   background-color: #f8f9fa;
-  color: #3e74f8;
+  color: var(--color-one);
 }
 
 .navbar-1 .language-switcher .lang-option.active {
-  background-color: #3e74f8;
+  background-color: var(--color-two);
   color: #ffffff;
   font-weight: 600;
 }
 
 .navbar-1 .language-switcher .lang-option.active:hover {
-  background-color: #2d5dd6;
+  background-color: var(--color-three);
 }
 
 /**
@@ -1753,6 +1753,7 @@ a.animated-button.style2:hover:after {
 #section-subscribe1 {
   padding: 110px 0;
   background: rgba(128, 0, 0, 0.1);
+  margin-top: 20px;
 }
 #section-subscribe1 .title1 {
   margin-bottom: 30px;

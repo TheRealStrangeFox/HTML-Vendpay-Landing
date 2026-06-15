@@ -13,7 +13,7 @@ var translations = {
     call_us: "Call us for imiditate support",
     send_email: "Send us email for any kind of inquiry",
     hero_headline: "One system for all devices",
-    hero_summary: "Cashless payments to self-service machines. quickly, easily and efficiently",
+    hero_summary: "Card and digital payments on self-service machines, fast, simple, and efficient.",
     start_now: "Get Started Now",
 
     //features
@@ -102,7 +102,7 @@ var translations = {
     call_us: "დაგვიკავშირდით დაუყოვნებელი მხარდაჭერისთვის",
     send_email: "მოგვწერეთ ელფოსტაზე ნებისმიერი შეკითხვისთვის",
     hero_headline: "ერთი სისტემა ყველა აპარატისთვის",
-    hero_summary: "საბარათე და ციფრულ გადახდებს თვითმომსახურების აპარატებზე, სწრაფად, მარტივად და ეფექტურად",
+    hero_summary: "საბარათე და ციფრული გადახდები თვითმომსახურების აპარატებზე, სწრაფად, მარტივად და ეფექტურად.",
     start_now: "დაიწყე ახლავე",
 
     //features
